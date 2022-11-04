@@ -11,7 +11,7 @@ Machine Learning based Vehicle Performance Analyzer
 |KAMALESH K         |  621319104018   |   CSE      | 
 |KARTHIKEYAN S      |  621319104303   |   CSE      |
 |MOHAN RAJ S        |  621319104305   |   CSE      |
-|SANJAY             |  621319104048   |   CSE      |
+|SANJAYKUMAR N      |  621319104048   |   CSE      |
 
 
 ### Project Desciption:
